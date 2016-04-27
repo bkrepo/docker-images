@@ -1,1 +1,1 @@
-# Docker images for ODROID development
+ODROID Docker images
